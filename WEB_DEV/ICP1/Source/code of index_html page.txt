@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ICP1</title>
+</head>
+Hello!<br>
+Hope you and your family are well during this pandemic!!!<br>
+stay Safe!!<br>
+<body>
+
+Please have face  mask in public places
+
+<h1>
+    the ICP1 with details of webstrom and GitHub
+</h1>
+
+</body>
+</html>
