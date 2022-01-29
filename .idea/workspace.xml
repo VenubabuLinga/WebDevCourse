@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ec9fe35-1799-45b8-967b-855f255857e4" name="Changes" comment="adding the Index.html page to GitHub">
-      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture11.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture12.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture13.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture14.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture16.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture17.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture7.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture8.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/Documentation/Picture8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +81,7 @@
       <updated>1643298407881</updated>
       <workItem from="1643298410135" duration="4530000" />
       <workItem from="1643329333611" duration="74000" />
-      <workItem from="1643414516142" duration="1074000" />
+      <workItem from="1643414516142" duration="2428000" />
     </task>
     <task id="LOCAL-00001" summary="adding the Index.html page to GitHub">
       <created>1643301970946</created>
