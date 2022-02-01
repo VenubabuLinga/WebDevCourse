@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ec9fe35-1799-45b8-967b-855f255857e4" name="Changes" comment="adding the Index.html page to GitHub" />
+    <list default="true" id="3ec9fe35-1799-45b8-967b-855f255857e4" name="Changes" comment="adding the Index.html page to GitHub">
+      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/app1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/app2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/app3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/bean.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/my_css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/webpage1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/our project.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/our project.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/WEB_DEV/ICP2/Source" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WEB_DEV/ICP3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -56,6 +68,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP3" />
       <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP2\Source" />
       <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP1" />
     </key>
@@ -64,15 +77,19 @@
       <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP2\Source" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.our project.html">
     <configuration name="Index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP1/Index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP2/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="our project.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP3/our project.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.our project.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -89,6 +106,7 @@
       <workItem from="1643329333611" duration="74000" />
       <workItem from="1643414516142" duration="3372000" />
       <workItem from="1643752381929" duration="228000" />
+      <workItem from="1643752978117" duration="217000" />
     </task>
     <task id="LOCAL-00001" summary="adding the Index.html page to GitHub">
       <created>1643301970946</created>
