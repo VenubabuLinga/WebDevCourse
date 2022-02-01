@@ -7,7 +7,7 @@
     <list default="true" id="3ec9fe35-1799-45b8-967b-855f255857e4" name="Changes" comment="adding the Index.html page to GitHub">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/my_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/my_css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/our project.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/our project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/webpage1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/webpage1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +65,7 @@
       <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP3\Documentation" />
       <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP2" />
       <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP2\Source" />
     </key>
@@ -102,7 +103,7 @@
       <workItem from="1643329333611" duration="74000" />
       <workItem from="1643414516142" duration="3372000" />
       <workItem from="1643752381929" duration="228000" />
-      <workItem from="1643752978117" duration="1816000" />
+      <workItem from="1643752978117" duration="2373000" />
     </task>
     <task id="LOCAL-00001" summary="adding the Index.html page to GitHub">
       <created>1643301970946</created>
