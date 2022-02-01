@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ec9fe35-1799-45b8-967b-855f255857e4" name="Changes" comment="adding the Index.html page to GitHub">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d1c96c5a-e548-47cb-aa10-26012787bfb0" />
+        <option name="url" value="https://github.com/VenubabuLinga/WebDevCourse.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/WEB_DEV/ICP2/Source" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -81,7 +89,7 @@
       <updated>1643298407881</updated>
       <workItem from="1643298410135" duration="4530000" />
       <workItem from="1643329333611" duration="74000" />
-      <workItem from="1643414516142" duration="2428000" />
+      <workItem from="1643414516142" duration="3372000" />
     </task>
     <task id="LOCAL-00001" summary="adding the Index.html page to GitHub">
       <created>1643301970946</created>
