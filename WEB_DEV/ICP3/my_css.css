@@ -7,18 +7,18 @@ body {
     background: linear-gradient(to bottom, #2e231f, #3ce3e8);
 }
 .profile {
-    height: 100px;
+    height: 120px;
     margin-top: 10px;
-    border-bottom : 1px solid #ccc;
-    color:rgb(138, 83, 16);
+    border-bottom : 0px;
+    color: rgb(231, 207, 87);
 }
 .profile-pic {
     height: 100px;
     width: 100px;
 }
 .wrapper {
-    margin-top:10px;
-    background-image: url('Documentation/Image.png');
+    margin-top:2px;
+
     height: 500px;
     color: #d9581d;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
