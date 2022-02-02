@@ -70,8 +70,11 @@
       <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP2\Source" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.webpage1.html">
+  <component name="RunManager" selected="JavaScript Debug.RWD_task.html">
     <configuration name="Index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP1/Index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="RWD_task.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP3/RWD_task.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP2/index.html" useBuiltInWebServerPort="true">
@@ -80,12 +83,9 @@
     <configuration name="our project.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP3/our project.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="webpage1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP3/webpage1.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.webpage1.html" />
+        <item itemvalue="JavaScript Debug.RWD_task.html" />
         <item itemvalue="JavaScript Debug.our project.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -103,7 +103,7 @@
       <workItem from="1643329333611" duration="74000" />
       <workItem from="1643414516142" duration="3372000" />
       <workItem from="1643752381929" duration="228000" />
-      <workItem from="1643752978117" duration="8695000" />
+      <workItem from="1643752978117" duration="11764000" />
     </task>
     <task id="LOCAL-00001" summary="adding the Index.html page to GitHub">
       <created>1643301970946</created>
