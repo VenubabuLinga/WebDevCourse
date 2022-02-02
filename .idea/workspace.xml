@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ec9fe35-1799-45b8-967b-855f255857e4" name="Changes" comment="adding the Index.html page to GitHub">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/RWD_task.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/RWD_task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/my_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/my_css.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +102,7 @@
       <workItem from="1643329333611" duration="74000" />
       <workItem from="1643414516142" duration="3372000" />
       <workItem from="1643752381929" duration="228000" />
-      <workItem from="1643752978117" duration="12554000" />
+      <workItem from="1643752978117" duration="13455000" />
     </task>
     <task id="LOCAL-00001" summary="adding the Index.html page to GitHub">
       <created>1643301970946</created>
