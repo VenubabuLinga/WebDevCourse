@@ -1,3 +1,7 @@
+
+{
+    box-sizing: border-box;
+}
 * {
     margin: 0;
     padding: 0;
@@ -7,19 +11,20 @@ body {
     background: linear-gradient(to bottom, #2e231f, #3ce3e8);
 }
 .profile {
-    height: 120px;
-    margin-top: 10px;
+    height: 110px;
+    margin-top: 2px;
     border-bottom : 0px;
-    color: rgb(231, 207, 87);
+
+    color: rgb(224, 193, 43);
 }
 .profile-pic {
-    height: 100px;
+    height: 110px;
     width: 100px;
 }
 .wrapper {
     margin-top:2px;
 
-    height: 500px;
+    height: 400px;
     color: #d9581d;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
@@ -47,7 +52,7 @@ body {
     color: black;
 }
 .col .image {
-    width: 100%;
+    width: 100px;
     height: 200px;
 }
 .image-heading {
