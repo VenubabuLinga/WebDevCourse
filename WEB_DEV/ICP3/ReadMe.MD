@@ -3,6 +3,6 @@ email : vl6hw@umsystem.edu
 GitHub Link : https://github.com/VenubabuLinga/WebDevCourse/tree/main/WEB_DEV/ICP3
 
 
-Sarath Chandra kunisetty – skkh2@umkc.edu
+Sarath Chandra kunisetty – skkh2@umsystem.edu
 GitHub link: https://github.com/kunisettysarath/WebMobileProgramming-Spring22/tree/main/WebDevelopment/ICP's/ICP3
 
