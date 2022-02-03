@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ec9fe35-1799-45b8-967b-855f255857e4" name="Changes" comment="adding the Index.html page to GitHub" />
+    <list default="true" id="3ec9fe35-1799-45b8-967b-855f255857e4" name="Changes" comment="adding the Index.html page to GitHub">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Image.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Source/Image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture1.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture10.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture11.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture12.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture2.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture3.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture4.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture5.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture6.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture7.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/Picture7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/app1.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Source/app1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/app2.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Source/app2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/app3.png" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Source/app3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Documentation/bean.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Source/bean.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Source/my_css.css" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Source/my_css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Source/webpage1.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,12 +80,13 @@
       <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP3\ResponsiveWebDesign\Source" />
       <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP3\Documentation" />
       <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP2" />
       <recent name="C:\Users\venubabu\OneDrive\Documents\GitHub\WebDevCourse\WEB_DEV\ICP2\Source" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.RWD_task.html">
+  <component name="RunManager" selected="JavaScript Debug.webpage1.html">
     <configuration name="Index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP1/Index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -79,8 +99,12 @@
     <configuration name="our project.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP3/our project.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="webpage1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP3/ResponsiveWebDesign/Source/webpage1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.webpage1.html" />
         <item itemvalue="JavaScript Debug.RWD_task.html" />
         <item itemvalue="JavaScript Debug.our project.html" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -100,6 +124,7 @@
       <workItem from="1643414516142" duration="3372000" />
       <workItem from="1643752381929" duration="228000" />
       <workItem from="1643752978117" duration="18770000" />
+      <workItem from="1643928457223" duration="1828000" />
     </task>
     <task id="LOCAL-00001" summary="adding the Index.html page to GitHub">
       <created>1643301970946</created>
