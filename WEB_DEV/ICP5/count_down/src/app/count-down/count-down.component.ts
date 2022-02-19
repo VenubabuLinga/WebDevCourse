@@ -13,12 +13,13 @@ export class CountDownComponent implements OnInit, OnDestroy {
   private subscription: Subscription;
 
   public dateNow = new Date();
-  public dDay = new Date('feb 24 2022 00:00:00');
+  public dDay = new Date('Apr 24 2023 00:00:00');
   milliSecondsInASecond = 1000;
   hoursInADay = 24;
   minutesInAnHour = 60;
   SecondsInAMinute  = 60;
 
+  public string = this.dDay.toDateString();
 
 
   public timeDifference;
