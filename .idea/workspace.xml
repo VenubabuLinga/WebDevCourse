@@ -7,6 +7,7 @@
     <list default="true" id="3ec9fe35-1799-45b8-967b-855f255857e4" name="Changes" comment="adding the Index.html page to GitHub">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Source/our project.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB_DEV/ICP3/ResponsiveWebDesign/Source/our project.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +81,7 @@
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/index.html/WEB_DEV/ICP2/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP2/index.html" useBuiltInWebServerPort="true">
+    <configuration name="our project.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/index.html/WEB_DEV/ICP3/ResponsiveWebDesign/Source/our project.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="our project.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebDevCourse/WEB_DEV/ICP3/our project.html" useBuiltInWebServerPort="true">
@@ -92,10 +93,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.our project.html (1)" />
         <item itemvalue="JavaScript Debug.webpage1.html" />
         <item itemvalue="JavaScript Debug.RWD_task.html" />
         <item itemvalue="JavaScript Debug.our project.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -116,6 +117,8 @@
       <workItem from="1644626916647" duration="2623000" />
       <workItem from="1644887360331" duration="2412000" />
       <workItem from="1645119932898" duration="1197000" />
+      <workItem from="1645466677411" duration="2501000" />
+      <workItem from="1645633680470" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="adding the Index.html page to GitHub">
       <created>1643301970946</created>
